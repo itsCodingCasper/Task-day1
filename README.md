@@ -7,7 +7,7 @@ Network port scan results and analysis
 - Used Nmap to scan my local network for open ports.
 - Analyzed scan output for open ports and their services.
 - Assessed security risks for discovered open ports.
-- (Optional) Used Wireshark to observe scan traffic.
+- Used Wireshark to observe scan traffic.
 
 ## Results
 | Port | Service    | Function              | Security Risk |
